@@ -37,6 +37,10 @@
     padding: 0px;
 }
 
+.bold {
+    font-weight: 800;
+}
+
 .text-container {
     padding: 10px;
     display: block;
@@ -50,7 +54,6 @@
     color:hsl(0, 0%, 7%);
     border-radius: 5px;
     font-size: 16px;
-    font-weight: 800;
     margin: 20px 0px;
     padding: 5px;
     width: 70px;
@@ -59,7 +62,6 @@
 }
 
 .text-3 {
-    font-weight: 700;
     margin: 20px 0px;
 }
 
