@@ -41,6 +41,8 @@
     padding: 10px;
     display: block;
     align-items: start;
+    font-weight: 600;
+    font-size: 16px;
 }
 
 .text-1 {
@@ -49,11 +51,20 @@
     border-radius: 5px;
     font-size: 16px;
     font-weight: 800;
-    margin: 10px 0px;
+    margin: 20px 0px;
     padding: 5px;
     width: 70px;
     text-align: left;
     align-items: start;
+}
+
+.text-3 {
+    font-weight: 700;
+    margin: 20px 0px;
+}
+
+.text-4 {
+    color: hsl(0, 0%, 50%);
 }
 
 .attribution {
