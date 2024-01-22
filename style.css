@@ -6,7 +6,7 @@
     font-family: 'Figtree', sans-serif;
 }
 
-body {
+#container {
     background-color: hsl(47, 88%, 63%);
     width: 375px;
     height: 100vh;
@@ -16,12 +16,22 @@ body {
 }
 
 #card {
+    display: flex;
+    flex-direction: column;
     background-color: hsl(0, 0%, 100%);
+    width: 90%;
     margin: auto;
     border: 1px solid black;
     border-radius: 15px;
 }
 
+.image-container {
+    width: 90%;
+}
+
+.image {
+    align-items: center;
+}
 
 .attribution {
     font-size: 11px;
