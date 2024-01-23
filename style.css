@@ -66,17 +66,23 @@ body {
     align-items: start;
 }
 
-.text-3 {
-    margin: 10px 0px;
-    cursor: pointer;
+.text-2 {
+    margin-bottom: 10px;
 }
 
-.text-3:hover {
+.text-3 a {
+    cursor: pointer;
+    color: hsl(0, 0%, 7%);
+    text-decoration: none;
+}
+
+.text-3 a:hover {
     color: hsl(47, 88%, 63%);
 }
 
 .text-4 {
     color: hsl(0, 0%, 50%);
+    margin-top: 10px;
 }
 
 .picture-container {
