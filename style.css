@@ -70,13 +70,14 @@ body {
     margin-bottom: 10px;
 }
 
-.text-3 a {
+h1 a  {
     cursor: pointer;
     color: hsl(0, 0%, 7%);
     text-decoration: none;
+    font-size: 16px;
 }
 
-.text-3 a:hover {
+h1 a:hover {
     color: hsl(47, 88%, 63%);
 }
 
