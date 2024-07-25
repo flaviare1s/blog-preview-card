@@ -1,4 +1,4 @@
-# blog-preview-card
+# Blog Preview Card
 
 Esse foi um dos meus primeiros desafios Frontend Mentor concluídos. O objetivo dos desafios é copiar o design fornecido e deixar o mais parecido possível com o original.
 
